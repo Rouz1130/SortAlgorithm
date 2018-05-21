@@ -1,0 +1,14 @@
+/Users/rouzbehmajlessi/golden/QuickSort/bin/Debug/netcoreapp2.0/QuickSort.deps.json
+/Users/rouzbehmajlessi/golden/QuickSort/bin/Debug/netcoreapp2.0/QuickSort.runtimeconfig.json
+/Users/rouzbehmajlessi/golden/QuickSort/bin/Debug/netcoreapp2.0/QuickSort.runtimeconfig.dev.json
+/Users/rouzbehmajlessi/golden/QuickSort/bin/Debug/netcoreapp2.0/QuickSort.dll
+/Users/rouzbehmajlessi/golden/QuickSort/bin/Debug/netcoreapp2.0/QuickSort.pdb
+/Users/rouzbehmajlessi/golden/QuickSort/bin/Debug/netcoreapp2.0/library.dll
+/Users/rouzbehmajlessi/golden/QuickSort/bin/Debug/netcoreapp2.0/library.pdb
+/Users/rouzbehmajlessi/golden/QuickSort/obj/Debug/netcoreapp2.0/QuickSort.csprojAssemblyReference.cache
+/Users/rouzbehmajlessi/golden/QuickSort/obj/Debug/netcoreapp2.0/QuickSort.csproj.CoreCompileInputs.cache
+/Users/rouzbehmajlessi/golden/QuickSort/obj/Debug/netcoreapp2.0/QuickSort.AssemblyInfoInputs.cache
+/Users/rouzbehmajlessi/golden/QuickSort/obj/Debug/netcoreapp2.0/QuickSort.AssemblyInfo.cs
+/Users/rouzbehmajlessi/golden/QuickSort/obj/Debug/netcoreapp2.0/QuickSort.csproj.CopyComplete
+/Users/rouzbehmajlessi/golden/QuickSort/obj/Debug/netcoreapp2.0/QuickSort.dll
+/Users/rouzbehmajlessi/golden/QuickSort/obj/Debug/netcoreapp2.0/QuickSort.pdb
