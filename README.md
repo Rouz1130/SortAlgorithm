@@ -2,6 +2,7 @@
 
 ## QuickSort
 An algorithm challenge to practice QuckSort: an efficient sorting algorithm, serving as a systematic method for placing the elements of an array. 
+This is a console application
 
 ### Techquniques
 Sort, Partition, Pivot 
