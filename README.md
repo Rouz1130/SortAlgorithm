@@ -9,11 +9,10 @@ Sort, Partition, Pivot
 ![alt text](img/quick-sort-part-2.png)
 
 
-#### Copyright and License
-
+#### About me
 By Rouz Majlessi May 2018
-[Resources] (www.rouzm.com) - Link to my Portfolio site
+[About Me](https://rouz1130.github.io/PortfolioS//) 
 
-#####
+##### Resources
 You can find the practice material from the resources link below
 [Resources](https://www.w3resource.com/csharp-exercises/searching-and-sorting-algorithm/searching-and-sorting-algorithm-exercise-9.php) - Links to all resources.  
